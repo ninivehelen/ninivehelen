@@ -18,6 +18,8 @@
   <img align="center" alt="datascience" height="50" width="90" src="https://github.com/ninivehelen/ninivehelen/blob/main/datascience.png">
   <img align="right" alt="gif" height="130" width="170" src="https://github.com/ninivehelen/ninivehelen/blob/main/lisa.gif">
  
+ <div>
+
  
 </div>
   
