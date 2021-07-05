@@ -13,9 +13,12 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="java" height="60" width="60" src="https://github.com/ninivehelen/ninivehelen/blob/main/java.png">
+  <img align="center" alt="c" height="30" width="40" src="https://github.com/ninivehelen/ninivehelen/blob/main/c.jpg">
+  <img align="center" alt="datascience" height="50" width="90" src="https://github.com/ninivehelen/ninivehelen/blob/main/datascience.png">
+  <img align="right" alt="gif" height="130" width="170" src="https://github.com/ninivehelen/ninivehelen/blob/main/lisa.gif">
  
-
-</div>
+ 
 </div>
   
 </div>
