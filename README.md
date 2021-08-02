@@ -31,3 +31,12 @@
   ![Snake animation](https://github.com/ninivehelen/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ <p align="center"> 
+
+ ## Total de Visitas no perfil 🕵🏽‍♀️: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/ninivehelen/count.svg" />
+ </p>
+
+</p>
