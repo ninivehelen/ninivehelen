@@ -1,5 +1,5 @@
-## Olá, Eu sou a Nínive Helen.</font> 
-## Seja Bem-Vindo(a) Ao Meu Repositório de Projetos.
+<img align="center" alt="imagem" height="350" width="900" src="https://github.com/ninivehelen/ninivehelen/blob/main/capa.png">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninivehelen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <div>
   <a href="https://github.com/ninivehelen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninivehelen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
