@@ -3,12 +3,13 @@
 <img align="left" alt="gif" height="130" width="170" src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ninivehelen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <div>
+
   <a href="https://github.com/ninivehelen">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ninivehelen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninivehelen&layout=compact&langs_count=16&theme=dracula"/>
    
-<p> ⚡ Principais Repositórios</p>:
-
+<p> ⚡ Principais Repositórios</p>
+   
 <a href="https://github.com/ninivehelen/Analise_De_Dados">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Analise_De_Dados&theme=dracula" />
 </a>
