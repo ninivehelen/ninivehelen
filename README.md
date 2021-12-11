@@ -1,7 +1,8 @@
-## Olá, Eu sou a Nínive Helen 
+## 👋 Olá, Eu sou a Nínive Helen. 
 ## Seja bem-vindo(a) ao meu repositório de projetos 
-<img align="left" alt="gif" height="130" width="170" src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ninivehelen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+- 👨‍🎓 Sou estudante de Ciência da Computação no Instituto Federal de Brasília.(IFB)</br>
+-  💻 Estou Focando meus estudos e projetos nas aréas de análise de dados e ciência de dados, </br>que são aréas que tenho interrese em me especializar.
+</br><img align="li" alt="gif" height="120" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif"></br>
  <div>
 
   <a href="https://github.com/ninivehelen">
@@ -20,6 +21,7 @@
    
    
 </div>
+<center>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,8 +31,8 @@
   <img align="center" alt="java" height="60" width="60" src="https://github.com/ninivehelen/ninivehelen/blob/main/java.png">
   <img align="center" alt="c" height="30" width="40" src="https://github.com/ninivehelen/ninivehelen/blob/main/c.jpg">
   <img align="center" alt="datascience" height="50" width="90" src="https://github.com/ninivehelen/ninivehelen/blob/main/datascience.png">
-  <img align="right" alt="gif" height="130" width="170" src="https://github.com/ninivehelen/ninivehelen/blob/main/lisa.gif">
- 
+  <img align="right" alt="gif" height="120" width="180" src="https://github.com/ninivehelen/ninivehelen/blob/main/lisa.gif">
+ </center>
  <div>
 
  
