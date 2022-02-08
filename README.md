@@ -14,7 +14,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Analise_De_Dados&theme=dracula" />
 </a>
 
-<a href="https://github.com/ninivehelen/Analise_De_Dados">
+<a href="https://github.com/ninivehelen/Modelos_Machine_Learning">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Modelos_Machine_Learning&theme=dracula" />
 </a>
    
