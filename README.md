@@ -12,7 +12,7 @@
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ninivehelen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninivehelen&layout=compact&langs_count=16&theme=dracula"/>
-   <img align="li" alt="gif" height="200" width="200"  src="https://github.com/ninivehelen/ninivehelen/blob/main/batcat.jpg"></br>
+   <img align="li" alt="gif" height="200" width="200"  src="https://github.com/ninivehelen/ninivehelen/blob/main/dog.gif"></br>
    
  ## Principais Repositórios
 <a href="https://github.com/ninivehelen/Analise_De_Dados">
