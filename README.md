@@ -4,9 +4,8 @@
 🔗 Link Portfólio https://ninivehelen.github.io/portfolio_ninive/
 
 - 👨‍🎓 Sou estudante de Ciência da Computação no Instituto Federal de Brasília.(IFB)</br>
--  💻 Estou Focando meus estudos e projetos nas aréas de análise de dados e ciência de dados, </br>que são aréas que tenho interrese em me especializar.
-<img align="li" alt="gif" height="120" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif">
-<img align="right" alt="gif" height="160" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/dog.gif">
+-  💻 Estou Focando meus estudos e projetos nas aréas de análise de dados e ciência de dados, </br>que são aréas que tenho interrese em me especializar.<br>
+<img align="li" alt="gif" height="120" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif"> <img align="li" alt="gif" height="120" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/dog.gif">
 
  <div>
 
