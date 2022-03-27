@@ -10,17 +10,17 @@
  <div>
 
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ninivehelen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninivehelen&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ninivehelen&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninivehelen&layout=compact&langs_count=16&theme=panda"/>
    <img align="li" alt="gif" height="160" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/dog.gif"></br>
    
  ## Principais Repositórios
 <a href="https://github.com/ninivehelen/Analise_De_Dados">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Analise_De_Dados&theme=dracula" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Analise_De_Dados&theme=panda" />
 </a>
 
 <a href="https://github.com/ninivehelen/Modelos_Machine_Learning">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Modelos_Machine_Learning&theme=dracula" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Modelos_Machine_Learning&theme=panda" />
 </a>
    
  ## Principais Hard skills
