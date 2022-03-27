@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Sou estudante de Ciência da Computação no Instituto Federal de Brasília.(IFB)</br>
 -  💻 Estou Focando meus estudos e projetos nas aréas de análise de dados e ciência de dados, </br>que são aréas que tenho interrese em me especializar.
-</br><img align="li" alt="gif" height="150" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif"></br>
+</br><img align="li" alt="gif" height="120" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif"></br>
 
  <div>
 
