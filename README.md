@@ -4,7 +4,7 @@
 🔗 Link Portfólio https://ninivehelen.github.io/portfolio_ninive/
 
 [![Linkedin: ninivehelen](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ninivehelen/)](https://www.linkedin.com/in/ninivehelen/)
-[![medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://profile-summary-for-github.com/user/johnatanbrayan)](https://profile-summary-for-github.com/user/johnatanbrayan)
+[![medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@aprendiznosdados)](https://medium.com/@aprendiznosdados)
 
 -  👩‍🎓 Sou estudante de Ciência da Computação no Instituto Federal de Brasília.(IFB)</br>
 -  💻 Estou Focando meus estudos e projetos nas aréas de análise de dados e ciência de dados, </br>que são aréas que tenho interrese em me especializar.<br>
