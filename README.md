@@ -1,5 +1,5 @@
 ## 👋 Olá, Eu sou a Nínive Helen. 
-## Seja bem-vindo(a) ao meu repositório de projetos 
+##  Seja bem-vindo(a) ao meu repositório de projetos 😄
 
 🔗 Link Portfólio https://ninivehelen.github.io/portfolio_ninive/
 
@@ -17,7 +17,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninivehelen&layout=compact&langs_count=16&theme=panda"/>
    
    
- ## Principais Repositórios
+ ## 📂 Principais Repositórios
 <a href="https://github.com/ninivehelen/Analise_De_Dados">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Analise_De_Dados&theme=panda" />
 </a>
@@ -26,7 +26,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Modelos_Machine_Learning&theme=panda" />
 </a>
    
- ## Principais Hard skills
+ ## 🔨 Principais Hard skills
 ![Linguagens](https://img.shields.io/badge/Linguagens-00C7B7?style=for-the-badge&logo=Linguagens&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-00C7B7?style=for-the-badge&logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/python-00C7B7?style=for-the-badge&logo=python&logoColor=black)
