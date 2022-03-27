@@ -24,35 +24,23 @@
 </a>
    
  ## Principais Hard skills
- 
-</div>
-<div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <img align="center" alt="java" height="60" width="60" src="https://github.com/ninivehelen/ninivehelen/blob/main/java.png">
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <img align="center" alt="c" height="30" width="40" src="https://github.com/ninivehelen/ninivehelen/blob/main/c.jpg">
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <img align="center" alt="datascience" height="50" width="90" src="https://github.com/ninivehelen/ninivehelen/blob/main/datascience.png">
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <img align="right" alt="gif" height="120" width="180" src="https://github.com/ninivehelen/ninivehelen/blob/main/lisa.gif">
- </div>
- <div>
-
- 
-</div>
-  
-</div>
-  
- 
-<div> 
+![Linguagens](https://img.shields.io/badge/Linguagens-00C7B7?style=for-the-badge&logo=Linguagens&logoColor=black)
+![Java](https://img.shields.io/badge/Java-00C7B7?style=for-the-badge&logo=java&logoColor=black)
+![Python](https://img.shields.io/badge/python-00C7B7?style=for-the-badge&logo=python&logoColor=black)
+![C](https://img.shields.io/badge/c-00C7B7?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-00C7B7?style=for-the-badge&logo=javascript&logoColor=black)
+ </br>
+![Banco de dados](https://img.shields.io/badge/Bancodedados-00C7B7?style=for-the-badge&logo=Linguagens&logoColor=black)
+![sql](https://img.shields.io/badge/sql-00C7B7?style=for-the-badge&logo=sql&logoColor=black)
+![mysql](https://img.shields.io/badge/mysql-00C7B7?style=for-the-badge&logo=mysql&logoColor=black)
+![microsoftsqlserver](https://img.shields.io/badge/microsoftsqlserver-00C7B7?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+ <br>
+![datascience](https://img.shields.io/badge/datascience-00C7B7?style=for-the-badge&logo=datascience&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-00C7B7?style=for-the-badge&logo=pandas&logoColor=black)
+![matplotlib](https://img.shields.io/badge/matplotlib-00C7B7?style=for-the-badge&logo=matplotlib&logoColor=black)
+![seaborn](https://img.shields.io/badge/seaborn-00C7B7?style=for-the-badge&logo=seaborn&logoColor=black)
+![powerbi](https://img.shields.io/badge/powerbi-00C7B7?style=for-the-badge&logo=powerbi&logoColor=black)
+<img align="right" alt="gif" height="120" width="180" src="https://github.com/ninivehelen/ninivehelen/blob/main/lisa.gif">
 
   ![Snake animation](https://github.com/ninivehelen/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
