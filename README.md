@@ -24,22 +24,30 @@
 </a>
    
  ## 🔨 Principais Hard skills
-![Linguagens](https://img.shields.io/badge/Linguagens-00C7B7?style=for-the-badge&logo=Linguagens&logoColor=black)
-![Java](https://img.shields.io/badge/Java-00C7B7?style=for-the-badge&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/python-00C7B7?style=for-the-badge&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/c-00C7B7?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-00C7B7?style=for-the-badge&logo=javascript&logoColor=black)
- </br>
-![Banco de dados](https://img.shields.io/badge/Bancodedados-00C7B7?style=for-the-badge&logo=Linguagens&logoColor=black)
-![sql](https://img.shields.io/badge/sql-00C7B7?style=for-the-badge&logo=sql&logoColor=black)
-![mysql](https://img.shields.io/badge/mysql-00C7B7?style=for-the-badge&logo=mysql&logoColor=black)
-![microsoftsqlserver](https://img.shields.io/badge/microsoftsqlserver-00C7B7?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+ 
+ ![C]( https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+ 
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ 
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+ ![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=Sqlserver)
+ ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
+ 
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
  <br>
-![datascience](https://img.shields.io/badge/datascience-00C7B7?style=for-the-badge&logo=datascience&logoColor=black)
-![pandas](https://img.shields.io/badge/pandas-00C7B7?style=for-the-badge&logo=pandas&logoColor=black)
-![matplotlib](https://img.shields.io/badge/matplotlib-00C7B7?style=for-the-badge&logo=matplotlib&logoColor=black)
-![seaborn](https://img.shields.io/badge/seaborn-00C7B7?style=for-the-badge&logo=seaborn&logoColor=black)
-![powerbi](https://img.shields.io/badge/powerbi-00C7B7?style=for-the-badge&logo=powerbi&logoColor=black)
+ ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+ 
+
 <img align="right" alt="gif" height="120" width="180" src="https://github.com/ninivehelen/ninivehelen/blob/main/lisa.gif">
 
   ![Snake animation](https://github.com/ninivehelen/rafaballerini/blob/output/github-contribution-grid-snake.svg)
