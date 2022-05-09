@@ -25,7 +25,7 @@
    
  ## 🔨 Principais Hard skills
  
- ![C]( https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
+ ![C]( https://img.shields.io/badge/--black?style=flat-square&logo=C)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
  
