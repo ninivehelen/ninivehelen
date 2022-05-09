@@ -36,7 +36,7 @@
  
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=Sqlserver)
- ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=Mysql)
+ ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
  
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
