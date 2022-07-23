@@ -1,7 +1,8 @@
 ## 👋 Olá, Eu sou a Nínive Helen. 
 ##  Seja bem-vindo(a) ao meu repositório de projetos 😄
 
-🔗 Link Portfólio https://ninivehelen.github.io/portfolio_ninive/
+🔗 Link Portfólio https://ninivehelen.github.io/portfolio_ninive/ </br>
+🔗 Link Análise dos projetos desenvolvidos: https://octoprofile.vercel.app/user?id=ninivehelen
 
 -  👩‍🎓 Sou estudante de Ciência da Computação no Instituto Federal de Brasília.(IFB)</br>
 -  💻 Estou Focando meus estudos e projetos nas aréas de análise de dados e ciência de dados, </br>que são aréas que tenho interrese em me especializar.<br>
