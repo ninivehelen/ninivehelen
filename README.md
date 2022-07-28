@@ -1,10 +1,10 @@
-## 👋 Olá, Eu sou a Nínive Helen. 
+## 👋 Olá, Eu sou a Nínive Helen.
 ##  Seja bem-vindo(a) ao meu repositório de projetos 😄
 
-🔗 Link Portfólio https://ninivehelen.github.io/portfolio_ninive/ </br>
-🔗 Link Análise dos projetos desenvolvidos: https://octoprofile.vercel.app/user?id=ninivehelen
-
--  👩‍🎓 Sou estudante de Ciência da Computação no Instituto Federal de Brasília.(IFB)</br>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Portfolio&logoColor=black&link=https://ninivehelen.github.io/portfolio_ninive/)](https://ninivehelen.github.io/portfolio_ninive/)
+[![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://octoprofile.vercel.app/user?id=ninivehelen)](https://octoprofile.vercel.app/user?id=ninivehelen)
+[![Linkedin: johnatanbrayan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ninivehelen/)](https://www.linkedin.com/in/ninivehelen/)
+-  👩🏽‍🎓 Sou estudante de Ciência da Computação no Instituto Federal de Brasília.(IFB)</br> 
 -  💻 Estou Focando meus estudos e projetos nas aréas de análise de dados e ciência de dados, </br>que são aréas que tenho interrese em me especializar.<br>
 <img align="li" alt="gif" height="120" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif"> <img align="li" alt="gif" height="120" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/dog.gif">
 
@@ -51,7 +51,7 @@
 
 <img align="right" alt="gif" height="120" width="180" src="https://github.com/ninivehelen/ninivehelen/blob/main/lisa.gif">
 
-  ![Snake animation](https://github.com/ninivehelen/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ninivehelen/ninivehelen/blob/main/github-contribution-grid-snake.svg)
  
 </div>
  
