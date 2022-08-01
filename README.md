@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="gif" height="250" width="400" src="https://github.com/ninivehelen/ninivehelen/blob/main/apresentacao_gif.gif">
+<img align="center" alt="gif" height="300" width="600" src="https://github.com/ninivehelen/ninivehelen/blob/main/apresentacao_gif.gif">
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Portfolio&logoColor=black&link=https://ninivehelen.github.io/portfolio_ninive/)](https://ninivehelen.github.io/portfolio_ninive/)
 [![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://octoprofile.vercel.app/user?id=ninivehelen)](https://octoprofile.vercel.app/user?id=ninivehelen)
