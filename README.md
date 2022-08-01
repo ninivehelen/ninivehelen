@@ -5,10 +5,9 @@
 [![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://octoprofile.vercel.app/user?id=ninivehelen)](https://octoprofile.vercel.app/user?id=ninivehelen)
 [![Linkedin: johnatanbrayan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ninivehelen/)](https://www.linkedin.com/in/ninivehelen/)
 
--  👩🏽‍🎓 Sou estudante de Ciência da Computação no Instituto Federal de Brasília.(IFB)</br> 
--  💻 Estou Focando meus estudos e projetos nas aréas de análise de dados e ciência de dados, </br>que são aréas que tenho interrese em me especializar.<br>
+-  👩🏽‍🎓 **Sou estudante de Ciência da Computação no Instituto Federal de Brasília.(IFB)**</br> 
+-  💻 **Estou Focando meus estudos e projetos nas aréas de análise de dados e ciência de dados, </br>que são aréas que tenho interrese em me especializar.**<br>
 <img align="li" alt="gif" height="120" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif"> <img align="li" alt="gif" height="120" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/dog.gif">
-
  <div>
 
   
