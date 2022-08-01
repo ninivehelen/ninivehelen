@@ -1,8 +1,8 @@
 <img src="https://github.com/ninivehelen/ninivehelen/blob/main/gif_apresentacao2.gif" width="" /> 
  <img align='right' src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif" width="179">
 <p tex-Align="center">
-<p>- 👩🏽‍🎓I am a Computer Science student at the Federal Institute of Brasília.(IFB)</br> 
--    - 💻 I'm focusing my studies and projects in the areas of data analysis and data science,</br>
+<p> -👩🏽‍🎓I am a Computer Science student at the Federal Institute of Brasília.(IFB)</br> 
+    -💻 I'm focusing my studies and projects in the areas of data analysis and data science,</br>
 which are areas that I am interested in specializing.
 <p>
 <p>
