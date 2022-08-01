@@ -1,12 +1,15 @@
 <img src="https://github.com/ninivehelen/ninivehelen/blob/main/gif_apresentacao2.gif" width="" /> 
  <img align='right' src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif" width="179">
 <p tex-Align="center">
-<p>- 👩🏽‍🎓Sou estudante de Ciência da Computação no Instituto Federal de Brasília. (IFB)</br> 
--    💻 Estou Focando meus estudos e projetos nas aréas de análise de dados e ciência de dados, </br>que são aréas que tenho interrese em me especializar.
+<p>- 👩🏽‍🎓I am a Computer Science student at the Federal Institute of Brasília.(IFB)</br> 
+-    - 💻 I'm focusing my studies and projects in the areas of data analysis and data science,</br>
+which are areas that I am interested in specializing.
 <p>
 <p>
 </p>
 <center>
+
+
 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Portfolio&logoColor=black&link=https://ninivehelen.github.io/portfolio_ninive/)](https://ninivehelen.github.io/portfolio_ninive/)
