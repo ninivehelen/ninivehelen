@@ -1,4 +1,5 @@
-<h2>Olá. Eu sou a Nínive Helen. </br> Seja bem-vindo(a) ao meu repositório de projetos <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
+<img src="https://github.com/ninivehelen/ninivehelen/blob/main/gif_apresentacao2.gif" width="" /> 
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
  <img align='right' src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif" width="179">
 <p tex-Align="center">
 <p>- 👩🏽‍🎓Sou estudante de Ciência da Computação no Instituto Federal de Brasília. (IFB)</br> 
