@@ -1,4 +1,4 @@
-<img src="https://github.com/ninivehelen/ninivehelen/blob/main/gif_apresentacao2.gif" width="" /> 
+<img src="https://github.com/ninivehelen/ninivehelen/blob/main/apresentacao_projetos.gif" width="" /> 
  <img align='right' src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif" width="179">
 <p tex-Align="center">
 <p> -👩🏽‍🎓I am a Computer Science student at the Federal Institute of Brasília.(IFB)</br> 
