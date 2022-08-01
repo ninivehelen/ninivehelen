@@ -25,7 +25,7 @@ which are areas that I am interested in specializing.
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninivehelen&layout=compact&langs_count=16&theme=panda"/>
    
    
- ## 📂 Principais Repositórios
+ ## 📂 Main Repositories
 <a href="https://github.com/ninivehelen/Analise_De_Dados">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Analise_De_Dados&theme=panda" />
 </a>
@@ -34,7 +34,7 @@ which are areas that I am interested in specializing.
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ninivehelen&repo=Modelos_Machine_Learning&theme=panda" />
 </a>
    
- ## 🔨 Principais Hard skills
+ ## 🔨 Main Hard Skills
  
  ![C]( https://img.shields.io/badge/--black?style=flat-square&logo=C)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
