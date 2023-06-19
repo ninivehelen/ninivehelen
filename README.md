@@ -12,7 +12,7 @@ which are areas that I am interested in specializing.
 
 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Portfolio&logoColor=black&link=https://ninivehelen.github.io/portfolio_ninive/)](https://ninivehelen.github.io/portfolio_ninive/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Portfolio&logoColor=orange&link=https://ninivehelen.github.io/portfolio_ninive/)](https://ninivehelen.github.io/portfolio_ninive/)
 [![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://octoprofile.vercel.app/user?id=ninivehelen)](https://octoprofile.vercel.app/user?id=ninivehelen)
 [![Linkedin: johnatanbrayan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ninivehelen/)](https://www.linkedin.com/in/ninivehelen/)
 
