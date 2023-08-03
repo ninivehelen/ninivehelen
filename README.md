@@ -40,16 +40,7 @@
 </a>
    
  ## 🔨 Main Hard Skills
- 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c&logoColor=white" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" style="vertical-align:top; margin:4px">    
-    
-</p>
- 
 
-<img align="right" alt="gif" height="120" width="180" src="https://github.com/ninivehelen/ninivehelen/blob/main/lisa.gif">
 
   ![Snake animation](https://github.com/ninivehelen/ninivehelen/blob/main/github-contribution-grid-snake.svg)
  
