@@ -55,7 +55,7 @@
  ![alt text](imagem/icons8-mongodb-48.png)
 
 * Software library <br> 
-![alt text](imagem/icons8-pandas-48.png) ![alt text](imagem/icons8-numpy-48.png)
+![alt text](imagem/icons8-pandas-48.png) ![alt text](imagem/icons8-numpy-48.png) ![alt text](imagem/icons8-numpy-48.png)
 
 </div>
 
