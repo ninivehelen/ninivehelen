@@ -22,11 +22,11 @@
    
 ## 📈 Statistics
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ninivehelen&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ninivehelen&hide=Html&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ninivehelen&theme=panda) |
+|![ninivehelen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninivehelen&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ninivehelen&hide=Html&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ninivehelen&theme=panda) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninivehelen&theme=panda) |[![GitHub Streak](https://streak-stats.demolab.com?user=ninivehelen&theme=panda&hide_border=true)](https://git.io/streak-stats)
-| :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninivehelen&theme=panda)
+| :-: |
 
 <br />
    
