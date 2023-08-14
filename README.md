@@ -1,8 +1,8 @@
 <img src="https://github.com/ninivehelen/ninivehelen/blob/main/gif.gif" width="" /> 
  <img align='right' src="https://github.com/ninivehelen/ninivehelen/blob/main/giphy.gif" width="180">
  
-<p align="center">
-  <h3>👋 Hello, Welcome, glad you made it this far.</h3>
+<p align="center"> 
+  <h3>👋 Hello, Welcome, glad you made it this far.</h3> 
 </p>
 
  - 👩🏽‍🎓 I am a Computer Science student at the Federal Institute of Brasília.(IFB)
@@ -19,7 +19,6 @@
 [![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://octoprofile.vercel.app/user?id=ninivehelen)](https://octoprofile.vercel.app/user?id=ninivehelen)
 [![Linkedin: johnatanbrayan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ninivehelen/)](https://www.linkedin.com/in/ninivehelen/)
  
-   
 ## 📈 Statistics
 
 |![ninivehelen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninivehelen&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ninivehelen&hide=Html&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ninivehelen&theme=panda) |
@@ -41,7 +40,7 @@
    
  ## 🔨 Main Hard Skills
  <img align="right" alt="gif" height="140" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/lisa.gif">
- 
+
 * Language <br>
 ![alt text](imagem/icons8-python-48.png) ![alt text](imagem/icons8-programação-c-48.png) ![alt text](imagem/icons8-logo-java-coffee-cup-48.png) ![alt text](imagem/icons8-html-48.png) ![alt text](imagem/icons8-css-48.png)
 
@@ -56,7 +55,7 @@
 
 * Software library <br> 
 ![alt text](imagem/icons8-pandas-48.png) ![alt text](imagem/icons8-numpy-48.png) 
-
+<img align="right" alt="gif" height="180" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/imagem/avatar_.png">
 </div>
 
 
