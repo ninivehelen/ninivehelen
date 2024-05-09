@@ -9,7 +9,7 @@
  
  - 🎓 Informatics technician graduated from the SENAC
    
- - 💻 I'm focusing my studies and projects in the areas of data analysis and data science,</br>
+ - 💻 I'm focusing my studies and projects in the areas of data engineering. and data science,</br>
   which are areas that I am interested in specializing.
 
  <img align="right" alt="gif" height="140" width="180"  src="https://github.com/ninivehelen/ninivehelen/blob/main/dog.gif">
