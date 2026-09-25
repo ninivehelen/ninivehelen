@@ -1,8 +1,5 @@
 <div align="center">
   <img src="https://github.com/ninivehelen/ninivehelen/blob/main/gif.gif" width="100%" alt="Header Banner" />
-  
-  <h1>👋 Olá, sou a Nínive Helen!</h1>
-  <p><b>Bacharel em Ciência da Computação | Engenheira & Cientista de Dados</b></p>
 
   [![Portfólio](https://img.shields.io/badge/-Portfólio-ff7f0e?style=for-the-badge&logo=react&logoColor=white)](https://ninivehelen.github.io/portfolio_ninive/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ninivehelen/)
