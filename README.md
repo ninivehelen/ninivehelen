@@ -2,31 +2,29 @@
   <img src="https://github.com/ninivehelen/ninivehelen/blob/main/gif.gif" width="100%" alt="Header Banner" />
   
   <h1>👋 Olá, sou a Nínive Helen!</h1>
-  <p><b>formada em Ciência da Computação | Aspirante a Engenheira & Cientista de Dados</b></p>
+  <p><b>Bacharel em Ciência da Computação | Engenheira & Cientista de Dados</b></p>
 
-  [![Portfolio](https://img.shields.io/badge/-Portfólio-ff7f0e?style=for-the-badge&logo=react&logoColor=white)](https://ninivehelen.github.io/portfolio_ninive/)
+  [![Portfólio](https://img.shields.io/badge/-Portfólio-ff7f0e?style=for-the-badge&logo=react&logoColor=white)](https://ninivehelen.github.io/portfolio_ninive/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ninivehelen/)
-  [![GitHub Profile](https://img.shields.io/badge/-GitHub%20Stats-222222?style=for-the-badge&logo=github&logoColor=white)](https://octoprofile.vercel.app/user?id=ninivehelen)
+  [![GitHub](https://img.shields.io/badge/-GitHub%20Stats-222222?style=for-the-badge&logo=github&logoColor=white)](https://octoprofile.vercel.app/user?id=ninivehelen)
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-- 🎓 Graduanda em **Ciência da Computação** no Instituto Federal de Brasília (IFB) e Técnica em Informática pelo SENAC.
-- 💻 Foco de estudos e projetos em **Engenharia de Dados** e **Ciência de Dados**.
-- 🛠️ Experiência prática em ecossistemas Big Data, pipelines de dados, modelagem SQL e análise preditiva.
-
+- 🎓 Graduada em **Ciência da Computação** pelo Instituto Federal de Brasília (IFB) e Técnica em Informática pelo SENAC.
+- 💻 Foco de atuação profissional em **Engenharia de Dados** e **Ciência de Dados**.
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Python, C, Java, SQL, HTML, CSS |
-| **Big Data & Data Eng.** | Apache Hadoop, Pipelines de Dados, ETL |
-| **Análise de Dados & ML** | Pandas, NumPy |
-| **Bancos de Dados** | MySQL, PostgreSQL, MongoDB |
+| **Linguagens** | Python, SQL, C, Java, HTML, CSS |
+| **Big Data & Data Eng.** | Apache Hadoop, Pipelines de Dados, ETL/ELT |
+| **Análise de Dados & BI** | Power BI, Pandas, NumPy |
+| **Bancos & Modelagem** | MySQL, PostgreSQL, MongoDB, Modelagem de Dados (Relacional e NoSQL) |
 | **Frameworks** | Django |
 
 ---
